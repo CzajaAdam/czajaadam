@@ -29,15 +29,8 @@ I am a passionate developer focusing on tools that help visualize life experienc
 
 ---
 
-### 📊 GitHub Activity
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=CzajaAdam&theme=dark&show_icons=true&hide_border=true&count_private=true" alt="Adam's Stats" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=CzajaAdam&theme=dark&hide_border=true&layout=compact" alt="Top Languages" width="48%" />
-</p>
+<img width="959" height="158" alt="image" src="https://github.com/user-attachments/assets/b1a6a5ce-9025-4a4f-99fc-e2968ec111d3" />
 
-<p align="center">
-  <img src="https://nirzak-streak-stats.vercel.app/?user=CzajaAdam&theme=dark&hide_border=true" alt="GitHub Streak" width="100%" />
-</p>
 
 ---
 
