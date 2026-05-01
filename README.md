@@ -1,24 +1,31 @@
 # 💫 Hi there, I'm Adam! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
-I am a passionate developer focusing on tools that visualize life experiences. I love bridging the gap between clean code and meaningful user experiences.
+I am a passionate developer focusing on tools that help visualize life experiences. I bridge the gap between clean code and meaningful user experiences using modern web technologies.
 
 ---
 
-### 🚀 What I'm Up To
-- 🛠️ **Currently working on:** A **private project** involving personalized data visualization and memory tracking.
+### 🚀 Current Focus
+- 🛠️ **Private Project:** Building a sophisticated data-driven application using **React** & **TypeScript**.
+- ⚡ **Build Tooling:** Migrated my workflow to **Vite** for lightning-fast development.
 - 🗺️ **Maintaining:** [Memory Map](https://github.com/CzajaAdam/Memory-Map) – an interactive map for travelers.
-- 🌱 **Learning Journey:** Mastering **C#**, **Android Studio**, and advanced **JavaScript** patterns.
-- 👯 **Collaboration:** Open to innovative web development projects (Frontend & Backend).
+- 🌱 **Learning Journey:** Mastering advanced **TypeScript** patterns and **C#** backend integration.
 
 ---
 
 ### 💻 Tech Stack
 
-| Category | Tools & Languages |
-| :--- | :--- |
-| **Languages** | ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) ![C#](https://img.shields.io/badge/C%23-239120?style=flat-square&logo=csharp&logoColor=white) ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=flat-square&logo=c%2B%2B&logoColor=white) ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white) |
-| **Frameworks** | ![.NET](https://img.shields.io/badge/.NET-5C2D91?style=flat-square&logo=.net&logoColor=white) ![Tailwind](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white) ![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white) |
-| **Databases** | ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white) ![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=flat-square&logo=mariadb&logoColor=white) |
+#### 🛠️ Frontend & Core
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
+![Tailwind](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+
+#### ⚙️ Backend & Database
+![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white)
+![.NET](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white)
 
 ---
 
