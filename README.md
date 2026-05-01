@@ -1,16 +1,14 @@
 # 💫 Hi there, I'm Adam! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
-I am a passionate developer currently focusing on creating tools that help visualize life experiences. I love bridging the gap between clean code and meaningful user experiences.
+I am a passionate developer focusing on tools that visualize life experiences. I love bridging the gap between clean code and meaningful user experiences.
 
 ---
 
-### 🗺️ Featured Project: [Memory Map](https://github.com/CzajaAdam/Memory-Map)
-> An interactive world map where users can pin places they’ve visited and create personalized photo albums for each location.
-
-*   🔭 **Current focus:** Enhancing the UI/UX of Memory Map.
-*   👯 **Collaboration:** Open to web development projects (Frontend & Backend).
-*   🌱 **Learning Journey:** Deep diving into intermediate **JavaScript**, **C#**, and **Android Studio**.
-*   ⚡ **Fun fact:** I don’t just use tools; I build them to capture my own memories.
+### 🚀 What I'm Up To
+- 🛠️ **Currently working on:** A **private project** involving personalized data visualization and memory tracking.
+- 🗺️ **Maintaining:** [Memory Map](https://github.com/CzajaAdam/Memory-Map) – an interactive map for travelers.
+- 🌱 **Learning Journey:** Mastering **C#**, **Android Studio**, and advanced **JavaScript** patterns.
+- 👯 **Collaboration:** Open to innovative web development projects (Frontend & Backend).
 
 ---
 
@@ -38,7 +36,7 @@ I am a passionate developer currently focusing on creating tools that help visua
 
 ### 🌐 Let's Connect!
 <p align="left">
-  <a href="https://discord.gg/https://discordapp.com/users/596983753503408140" target="_blank">
+  <a href="https://discordapp.com/users/596983753503408140" target="_blank">
     <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" />
   </a>
   <a href="https://facebook.com/adam.czaja.9066" target="_blank">
